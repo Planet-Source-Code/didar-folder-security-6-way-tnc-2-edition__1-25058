@@ -1,0 +1,127 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+[Package|Standard Setup Package 1|Folder Security 3.0 (GSI Technology)]
+Icon1="Folder Security 3.0.exe"
+Title1=Folder Security 3.0 (GSI Technology)
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2="Operating Manual.txt"
+Title2=Read Me
+StartIn2=$(AppPath)
+Key2=Icon3
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\current pro\Folder Security 4.0(GSI Technology)
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+Operating Manual.txt=C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Operating Manual.txt
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+operating manual.txt=
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\HELP.EXE=
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Trouble Shooting.txt=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Folder Security 4.0.exe=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Operating Manual.txt=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\HELP.EXE=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Trouble Shooting.txt=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\WINDOWS\DESKTOP\Folder Security3.0\Registration\Folder Security 3.0.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\DESKTOP\Folder Security3.0\Registration\Operating Manual.txt=$(AppPath)
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Folder Security 4.0.exe=$(AppPath)
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Operating Manual.txt=$(AppPath)
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\HELP.EXE=$(AppPath)
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Trouble Shooting.txt=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\DESKTOP\Folder Security3.0\Registration\Folder Security 3.0.exe=Yes
+C:\WINDOWS\DESKTOP\Folder Security3.0\Registration\Operating Manual.txt=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Folder Security 4.0.exe=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Operating Manual.txt=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\HELP.EXE=Yes
+C:\WINDOWS\DESKTOP\Folder Security4.0\Registration\Trouble Shooting.txt=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Folder Security 4.0 (GSI Technology)
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Folder Security 4.0 (GSI Technology)
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Folder Security 4.0 (GSI Technology)]
+Icon1="Operating Manual.txt"
+Title1=Read Me
+StartIn1=$(AppPath)
+Key1=Icon3
+Icon2="Trouble Shooting.txt"
+Title2=Trouble Shooting
+StartIn2=$(AppPath)
+Key2=Icon4
+Icon3=HELP.EXE
+Title3=Help
+StartIn3=$(AppPath)
+Key3=Icon5
+Icon4="Folder Security 4.0.exe"
+Title4=Folder Security 4.0 (GSI Technology)
+StartIn4=$(AppPath)
+Key4=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\current pro\Folder Security 4.0(GSI Technology)
+ProjectFolder=C:\WINDOWS\DESKTOP\Folder Security4.0\Registration
+ServerSideCab=
+File1=D:\current pro\Folder Security 4.0(GSI Technology)\setup.exe
+File2=D:\current pro\Folder Security 4.0(GSI Technology)\Setup.Lst
+File3=D:\current pro\Folder Security 4.0(GSI Technology)\Folder Security 4.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

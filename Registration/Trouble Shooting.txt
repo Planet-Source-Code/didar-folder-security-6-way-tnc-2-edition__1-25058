@@ -1,0 +1,146 @@
+		*****IT'S IMPORTANT*******
+
+
+WARNING!!!
+		It's Strictly Prohibited To Copy
+in MS-DOS mode.Otherwise This Software Will Be Unable
+to use.Once You Copy this setup folder in MS-DOS mode
+You Have to Arrange Another Copy To Use.For This Why
+We Recommand You To Use CD-ROM backup copy.
+
+	This Program Does not support Windows 2000.
+If You Use Windows2000,You Have To Collect A Customize
+Copy Of This Software By Payment From the Company.
+
+	Software Guideline:
+	Don't Use Hidden Folders.
+	
+
+
+
+
+Latest Information:
+		This Version Has Two Mode,Low Security And High
+Security.Low Security For Change The Folder Icon With Associate
+Program,Which Can Be Opened By Any Other Explorer Like ACDsee,
+Winfile,etc.In Mode High Security Is Seriously Protected Mode.
+No Way To Access The Folder.This Mode Is Recommanded For High 
+Security System.
+
+How To Use This Software:
+			An Avi File Is Included With This Software.
+In Mode Low Security>> Select The Folder And Click G or G1 to G4 to
+Chage the Folder Icon.Choose Which Way You Want To Protect. Move
+the Mouse On the Button And See The Tooltip Text About That Button.
+To Remove The Protection,Select The Folder And Click 'Remove Low Secu'.
+
+In Mode High Security>> Select The Folder And Click 'Restrict'.
+To Remove The High Security From The Protected Folder,Select The
+Folder And type the name of the protected folder name and Click
+'Restrict Free'.
+
+
+
+
+	About Password:
+
+	If You Forgot Your Password,You Must Contact
+With General Corporation at general@abnetbd.com
+
+	<Or>
+
+
+
+Mailing Address:
+
+	Tahmina Nur Chowdhury
+	House:110/c    Road No:4
+	Khulshi Hills Chittagong
+	Chittagong, Bangladesh
+	    Phone:654815
+
+
+
+
+	General Corporation Bangladesh.
+	
+		<<Thank You>>
+
+
+
+
+
+
+
+	
+		
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Software Is Dedicated To Tahmina Nur Chowdhuri.
